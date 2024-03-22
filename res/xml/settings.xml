@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreference android:title="Изменение настроек build.prop" android:key="change_build_prop" android:summary="Изменить язык и регион на RU/UK" android:defaultValue="false" />
+</PreferenceScreen>

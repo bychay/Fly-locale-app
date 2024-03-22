@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">О программе</string>
+    <string name="about_app_name"><b>Fly locale app</b></string>
+    <string name="answer_a" />
+    <string name="answer_b" />
+    <string name="app_name">Fly locale app</string>
+    <string name="clear_dalvik">Очистка dalvik-cache</string>
+    <string name="creative_commons">Локализация flyme 9 и flyme 10, для локализации системы используются возможности root и overlay. Благодарности c0nfid за русскую локализацию и ByChay за украинскую и русскую локализацию</string>
+    <string name="developer"><b>Разработчик:</b> &lt;a href=https://t.me/meizu_custom>ByChay&lt;/a></string>
+    <string name="info_title" />
+    <string name="install_localization_ru">Установить русскую локализацию</string>
+    <string name="install_localization_uk">Встановити українську локалізацію</string>
+    <string name="problem_a" />
+    <string name="problem_b" />
+    <string name="remove_chinese_app">Удалить китайский софт</string>
+    <string name="remove_localization">Удалить локализацию</string>
+    <string name="thanks"><b>Благодарности:</b> &lt;a href=https://t.me/c0nfid>c0nfid&lt;/a>, &lt;a href=https://t.me/wound37>ByChay&lt;/a></string>
+</resources>

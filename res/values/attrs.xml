@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="documentView_antialias" format="boolean" />
+    <attr name="documentView_cacheConfig">
+        <enum name="auto_quality" value="1" />
+        <enum name="grayscale" value="4" />
+        <enum name="high_quality" value="3" />
+        <enum name="low_quality" value="2" />
+        <enum name="no_cache" value="0" />
+    </attr>
+    <attr name="documentView_disallowInterceptTouch" format="boolean" />
+    <attr name="documentView_fadeInAnimationStepDelay" format="integer" />
+    <attr name="documentView_fadeInDuration" format="integer" />
+    <attr name="documentView_hyphen" format="string" />
+    <attr name="documentView_insetPadding" format="dimension" />
+    <attr name="documentView_insetPaddingBottom" format="dimension" />
+    <attr name="documentView_insetPaddingLeft" format="dimension" />
+    <attr name="documentView_insetPaddingRight" format="dimension" />
+    <attr name="documentView_insetPaddingTop" format="dimension" />
+    <attr name="documentView_lineHeightMultiplier" format="float" />
+    <attr name="documentView_maxLines" format="integer" />
+    <attr name="documentView_offsetX" format="dimension" />
+    <attr name="documentView_offsetY" format="dimension" />
+    <attr name="documentView_progressBar" format="reference" />
+    <attr name="documentView_reverse" format="boolean" />
+    <attr name="documentView_text" format="string" />
+    <attr name="documentView_textAlignment">
+        <enum name="center" value="3" />
+        <enum name="justified" value="2" />
+        <enum name="left" value="0" />
+        <enum name="right" value="1" />
+    </attr>
+    <attr name="documentView_textColor" format="color" />
+    <attr name="documentView_textFormat">
+        <enum name="formatted" value="1" />
+        <enum name="plain" value="0" />
+    </attr>
+    <attr name="documentView_textSize" format="dimension" />
+    <attr name="documentView_textStyle" format="integer">
+        <flag name="bold" value="0x00000001" />
+        <flag name="plain" value="0x00000000" />
+        <flag name="strikeThru" value="0x00000004" />
+        <flag name="underline" value="0x00000002" />
+    </attr>
+    <attr name="documentView_textSubPixel" format="boolean" />
+    <attr name="documentView_textTypefacePath" format="string" />
+    <attr name="documentView_wordSpacingMultiplier" format="float" />
+</resources>

@@ -1,0 +1,191 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: cxCxZiFHPQqKtkwvpfQ10/By+2o=
+
+Name: assets/overlay/AlwaysOnDisplay.apk
+SHA1-Digest: hb1TlF6ecmHvHuYEALEaN8thS2A=
+
+Name: assets/overlay/AppCenter.apk
+SHA1-Digest: c+w8bsu3lxJhfuOYtVN8li6rh1g=
+
+Name: assets/overlay/AppSandbox.apk
+SHA1-Digest: B1sryMOe5isDm7KaprH4Kk1XDR8=
+
+Name: assets/overlay/Browser.apk
+SHA1-Digest: cNsChtKaDTT6fOmX3MO2KYu6WtM=
+
+Name: assets/overlay/Calendar.apk
+SHA1-Digest: lU2xB4v9uT/yVJ/ZPBM1wA7Wt9g=
+
+Name: assets/overlay/CalendarProvider.apk
+SHA1-Digest: 747/woSrjPqPHyfpngBdzQTLe7I=
+
+Name: assets/overlay/Camera.apk
+SHA1-Digest: jD6piO8W4lis+IwpBCCV6dfh7V4=
+
+Name: assets/overlay/ConnectivitySettings.apk
+SHA1-Digest: EdDCl6C7maLZ87mhJBLkYEcZ+yw=
+
+Name: assets/overlay/ContactsProvider.apk
+SHA1-Digest: 7VwanNWfX1GCY7ioj1uoku5oeL8=
+
+Name: assets/overlay/CustomizeCenter.apk
+SHA1-Digest: gI4jl0vVbMLgm+v+yY3Mq39aH84=
+
+Name: assets/overlay/DataMigration.apk
+SHA1-Digest: eS4Xw5Zrjt/J/c3Q088cgZ8kHSo=
+
+Name: assets/overlay/DesktopBackup.apk
+SHA1-Digest: lXEyVWxG4AafUrTEB02PsYNjKbU=
+
+Name: assets/overlay/DeviceInfo.apk
+SHA1-Digest: xPScR01Tzd7Q9WieL7/vH4Hpy6A=
+
+Name: assets/overlay/Dialer.apk
+SHA1-Digest: x76iFWqF4JkX6agZii//dKsOpX4=
+
+Name: assets/overlay/FaceRecognition.apk
+SHA1-Digest: s3Fm78ah0FnlIZlB0dgh2vJTV8o=
+
+Name: assets/overlay/FamilyGuard.apk
+SHA1-Digest: jzk87JzZcoJXg92aTf5sDWylU+o=
+
+Name: assets/overlay/FileManager.apk
+SHA1-Digest: DzolJzXxVJe2IOIBn7qwAcu/IW4=
+
+Name: assets/overlay/FlymeGallery.apk
+SHA1-Digest: Of1uqpTVHAxGIk4JP1Ka7E/iBvc=
+
+Name: assets/overlay/FlymeLab.apk
+SHA1-Digest: QGM5lqEZ8BuzppMI3T/k4KU5Bc8=
+
+Name: assets/overlay/FlymeLauncher.apk
+SHA1-Digest: j2VZITCrgAoBB3Paoc2NKP5u7TE=
+
+Name: assets/overlay/FlymeMusic.apk
+SHA1-Digest: 4wTqks00oYkW5AtAYNwQIL6ZRiE=
+
+Name: assets/overlay/HomeTool.apk
+SHA1-Digest: cheTCJ/b7zB7fypyQN1aQCepvnc=
+
+Name: assets/overlay/InCallUI.apk
+SHA1-Digest: BD25NisG+YHLMe73B+1sGqL7Jpg=
+
+Name: assets/overlay/Mms.apk
+SHA1-Digest: FvYpmJdX750DrDNBKUBCP0v+UAk=
+
+Name: assets/overlay/MusicFX.apk
+SHA1-Digest: hOYotYWPleDkvOYMPQUa90RwSL4=
+
+Name: assets/overlay/MzAccount.apk
+SHA1-Digest: hdgZyw2ccg52HTXtl6dVkNiw0mc=
+
+Name: assets/overlay/MzBatteryManager.apk
+SHA1-Digest: jXGvvx2HZ04R1L12o5GJhq7yYjw=
+
+Name: assets/overlay/MzCallSetting.apk
+SHA1-Digest: kVjVmRbX3rvJUU+wqu+01OTedkQ=
+
+Name: assets/overlay/MzPhoneLocationService.apk
+SHA1-Digest: Br09DePRoa8hAK3zObTccA66zAA=
+
+Name: assets/overlay/MzSecurity.apk
+SHA1-Digest: MFNT+8pnGOrLm1xZT6/k1z/Q96Q=
+
+Name: assets/overlay/MzShare.apk
+SHA1-Digest: gXdox/N/45rz8B0JX+HZ8N60/EA=
+
+Name: assets/overlay/MzSyncService.apk
+SHA1-Digest: HJr+qxG3DgHTW8DYmCbUXi8Kzmo=
+
+Name: assets/overlay/NetAdmin.apk
+SHA1-Digest: 4bnfJv1bxeNjhobjJCCgWwZma1g=
+
+Name: assets/overlay/NetContactService.apk
+SHA1-Digest: BclZZhJoIsCYl20QtuxR9JjM8nk=
+
+Name: assets/overlay/NetworkControl.apk
+SHA1-Digest: aB+4qum/a4D686kKyNUAXA5ILO0=
+
+Name: assets/overlay/PackageInstaller.apk
+SHA1-Digest: 8qO7fNcme4s48j4EnRF9fk2NOCo=
+
+Name: assets/overlay/Pedometer.apk
+SHA1-Digest: xpc24IOPwcjp94ZGmWPKoRwJNkI=
+
+Name: assets/overlay/PerfUI.apk
+SHA1-Digest: 9WAmf/25s75EbYnqpYAu2pOoFdU=
+
+Name: assets/overlay/PermissionController.apk
+SHA1-Digest: fAbLtmfAkg6MWSehB5bnvCWL9Dk=
+
+Name: assets/overlay/SDKStage.apk
+SHA1-Digest: RPyahStY+kvkTaEJu9q4/yJF1p4=
+
+Name: assets/overlay/Settings.apk
+SHA1-Digest: EMIO4oqv/Gs0LUHI2Rv+wfc/f74=
+
+Name: assets/overlay/Shell.apk
+SHA1-Digest: DfasWtllwTZ1HtcTYyleDXPNfMQ=
+
+Name: assets/overlay/SimSettings.apk
+SHA1-Digest: M7bIY/eyDTQJEV4r52HnXap6H6A=
+
+Name: assets/overlay/SoundRecorder.apk
+SHA1-Digest: MaTwhkOEMwrN0NwJE7YvDn6UC6U=
+
+Name: assets/overlay/SystemUI.apk
+SHA1-Digest: ad2acCV5KkAGdeNHoIWwOPnZ3b8=
+
+Name: assets/overlay/SystemUIEx.apk
+SHA1-Digest: J3hpizVp9QF0FD9KeSymM/LY7Qk=
+
+Name: assets/overlay/SystemUITools.apk
+SHA1-Digest: 0zju/CJZa00V6iZUSKGTO1RPa78=
+
+Name: assets/overlay/TeleService.apk
+SHA1-Digest: qRL3AdHTkVxJmfT1+oS/UI26oXk=
+
+Name: assets/overlay/Telecom.apk
+SHA1-Digest: 0iBRw2WMGxv66zypZqjFoE+hfHs=
+
+Name: assets/overlay/TelephonyProvider.apk
+SHA1-Digest: JIkNUoKEreeCpUj1W1LG3exD4Pk=
+
+Name: assets/overlay/ToolBox.apk
+SHA1-Digest: uQzzYDew1pnzJlwbrqaVdOwFVmw=
+
+Name: assets/overlay/Video.apk
+SHA1-Digest: j5GZgoqjZs8HnW4piBSjv6R3XC8=
+
+Name: assets/overlay/WallpaperCropper.apk
+SHA1-Digest: C9uDY+JbXn/zA1x/i4EEFGJU4HY=
+
+Name: assets/overlay/Weather.apk
+SHA1-Digest: MVWyo6QuK8LSsPJy1ysNg4+R0gk=
+
+Name: assets/overlay/WifiAdmin.apk
+SHA1-Digest: WaKyGXIplK7mIVmhpmmT+y/HiEE=
+
+Name: classes.dex
+SHA1-Digest: wx9PribIpf6fm5sPoaFAeqGJU+E=
+
+Name: res/drawable-xxhdpi/ic_launcher.png
+SHA1-Digest: CAXXyEKO8ic+5oDe4+U98QCi3eM=
+
+Name: res/layout/about.xml
+SHA1-Digest: 65punuGMv1XMkuV6GeKKLpinrfw=
+
+Name: res/layout/activity_main.xml
+SHA1-Digest: 3K5qy0zDV2v6ZDJwLBSFeaY31Z0=
+
+Name: res/menu/main.xml
+SHA1-Digest: Spf4XLPOIJ8L/zmtA0Ea/Esjx/A=
+
+Name: res/xml/settings.xml
+SHA1-Digest: zsZp22lLlaogpyc1PvQ87+vl5as=
+
+Name: resources.arsc
+SHA1-Digest: sUapnh3sXcLAjzyjBJiRKJ4au7E=
+

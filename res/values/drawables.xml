@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="about_app_name">false</item>
+    <item type="drawable" name="about_cc">false</item>
+    <item type="drawable" name="about_developer">false</item>
+    <item type="drawable" name="about_thanks">false</item>
+    <item type="drawable" name="about_version">false</item>
+    <item type="drawable" name="button">false</item>
+    <item type="drawable" name="button2">false</item>
+    <item type="drawable" name="button3">false</item>
+    <item type="drawable" name="button5">false</item>
+    <item type="drawable" name="linearLayout">false</item>
+    <item type="drawable" name="main_menu_about">false</item>
+    <item type="drawable" name="main_menu_clear_dalvik">false</item>
+    <item type="drawable" name="main_menu_settings">false</item>
+</resources>

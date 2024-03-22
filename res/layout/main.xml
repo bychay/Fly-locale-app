@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@drawable/main_menu_settings" android:title="Настройки" />
+    <item android:id="@drawable/main_menu_clear_dalvik" android:title="@string/clear_dalvik" />
+    <item android:id="@drawable/main_menu_about" android:title="@string/about" />
+</menu>
